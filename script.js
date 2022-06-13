@@ -1,7 +1,7 @@
-let nome = "João"
-let sobrenome = "Carlos"
-let anoNascimento = 2004
-let cidade = "Diadema"
+let nome = "John"
+let sobrenome = "Doyle"
+let anoNascimento = 1991
+let cidade = "Curitiba"
 
 let idade = 2022 - anoNascimento
 
